@@ -4,7 +4,7 @@ Twitchbot, based on: https://github.com/rokkuran/twitchbot
 ## Setup
 * Clone the repository:
 ```
-git clone https://github.com/giuliandecarlo/TwitchBot-FutBin-PriceChecker.git
+git clone https://github.com/giuliandecarlo/TwitchBot-FutBin-PriceChecker
 ```
 * Download geckodriver : https://github.com/mozilla/geckodriver/releases
 * Obtain password from: https://twitchapps.com/tmi/

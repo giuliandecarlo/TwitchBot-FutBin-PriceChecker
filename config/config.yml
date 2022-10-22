@@ -1,0 +1,8 @@
+# Obtain password from: https://twitchapps.com/tmi/
+
+HOST: irc.chat.twitch.tv
+PORT: 6667
+NICK:
+PASS:
+COMMANDBOT:
+CHANNEL:
